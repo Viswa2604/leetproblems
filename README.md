@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Viswa2604/leetproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Viswa2604/leetproblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Viswa2604/leetproblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Viswa2604/leetproblems/tree/master/0792-binary-search) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswa2604/leetproblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/Viswa2604/leetproblems/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Viswa2604/leetproblems/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Viswa2604/leetproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Viswa2604/leetproblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Viswa2604/leetproblems/tree/master/0792-binary-search) |
 ## String
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Viswa2604/leetproblems/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Viswa2604/leetproblems/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Viswa2604/leetproblems/tree/master/0349-intersection-of-two-arrays) |
 ## Counting Sort
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Viswa2604/leetproblems/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/Viswa2604/leetproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Viswa2604/leetproblems/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viswa2604/leetproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Viswa2604/leetproblems/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Viswa2604/leetproblems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Viswa2604/leetproblems/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
