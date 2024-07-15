@@ -3,9 +3,9 @@ class Solution {
         int n=matrix.length;
         int m=matrix[0].length;
         ArrayList<Integer> p=new ArrayList<>();
-        if (matrix == null || matrix.length == 0) {
-            return p;
-        }
+        // if (matrix == null || matrix.length == 0) {
+        //     return p;
+        // }
         int left=0,top=0,right=m-1,bottom=n-1;
         while(left<=right&&top<=bottom){
             int i;
