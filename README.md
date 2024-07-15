@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Viswa2604/leetproblems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viswa2604/leetproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswa2604/leetproblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0217-contains-duplicate](https://github.com/Viswa2604/leetproblems/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Viswa2604/leetproblems/tree/master/0274-h-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Viswa2604/leetproblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Viswa2604/leetproblems/tree/master/0792-binary-search) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Viswa2604/leetproblems/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Viswa2604/leetproblems/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viswa2604/leetproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Viswa2604/leetproblems/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Viswa2604/leetproblems/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
 | ------- |
