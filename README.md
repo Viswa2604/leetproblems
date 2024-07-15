@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Viswa2604/leetproblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Viswa2604/leetproblems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viswa2604/leetproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswa2604/leetproblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Viswa2604/leetproblems/tree/master/0013-roman-to-integer) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Viswa2604/leetproblems/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Viswa2604/leetproblems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
