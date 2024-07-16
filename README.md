@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Viswa2604/leetproblems/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Viswa2604/leetproblems/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Viswa2604/leetproblems/tree/master/0392-is-subsequence) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viswa2604/leetproblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Viswa2604/leetproblems/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viswa2604/leetproblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
