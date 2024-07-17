@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Viswa2604/leetproblems/tree/master/0496-next-greater-element-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Viswa2604/leetproblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Viswa2604/leetproblems/tree/master/0792-binary-search) |
+| [1127-last-stone-weight](https://github.com/Viswa2604/leetproblems/tree/master/1127-last-stone-weight) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Viswa2604/leetproblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1127-last-stone-weight](https://github.com/Viswa2604/leetproblems/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
