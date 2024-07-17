@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Viswa2604/leetproblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Viswa2604/leetproblems/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Viswa2604/leetproblems/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Viswa2604/leetproblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Viswa2604/leetproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Viswa2604/leetproblems/tree/master/0496-next-greater-element-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Viswa2604/leetproblems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Viswa2604/leetproblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Viswa2604/leetproblems/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Viswa2604/leetproblems/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Viswa2604/leetproblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Viswa2604/leetproblems/tree/master/0349-intersection-of-two-arrays) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Viswa2604/leetproblems/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Viswa2604/leetproblems/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Viswa2604/leetproblems/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Viswa2604/leetproblems/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Viswa2604/leetproblems/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Viswa2604/leetproblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Viswa2604/leetproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Viswa2604/leetproblems/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
@@ -108,13 +112,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Viswa2604/leetproblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Viswa2604/leetproblems/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Viswa2604/leetproblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Viswa2604/leetproblems/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/Viswa2604/leetproblems/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Viswa2604/leetproblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Viswa2604/leetproblems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Viswa2604/leetproblems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
