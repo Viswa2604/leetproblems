@@ -7,6 +7,7 @@ class Solution {
              if(mp.containsKey(diff)){
                 arr[0]=i;
                 arr[1]=mp.get(diff);
+                return arr;
             }
             else{
                 mp.put(nums[i],i);
