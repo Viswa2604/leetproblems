@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Viswa2604/leetproblems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Viswa2604/leetproblems/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/Viswa2604/leetproblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Viswa2604/leetproblems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viswa2604/leetproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Viswa2604/leetproblems/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Viswa2604/leetproblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Viswa2604/leetproblems/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Viswa2604/leetproblems/tree/master/0274-h-index) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Viswa2604/leetproblems/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Viswa2604/leetproblems/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Viswa2604/leetproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Viswa2604/leetproblems/tree/master/0392-is-subsequence) |
