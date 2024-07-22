@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Viswa2604/leetproblems/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/Viswa2604/leetproblems/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Viswa2604/leetproblems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Viswa2604/leetproblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Viswa2604/leetproblems/tree/master/0142-linked-list-cycle-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Viswa2604/leetproblems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Viswa2604/leetproblems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Viswa2604/leetproblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Viswa2604/leetproblems/tree/master/0142-linked-list-cycle-ii) |
