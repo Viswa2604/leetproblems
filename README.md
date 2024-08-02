@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Viswa2604/leetproblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Viswa2604/leetproblems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Viswa2604/leetproblems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Viswa2604/leetproblems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viswa2604/leetproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswa2604/leetproblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Viswa2604/leetproblems/tree/master/0392-is-subsequence) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Viswa2604/leetproblems/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Viswa2604/leetproblems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Viswa2604/leetproblems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Viswa2604/leetproblems/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Viswa2604/leetproblems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Viswa2604/leetproblems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Viswa2604/leetproblems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
