@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viswa2604/leetproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswa2604/leetproblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Viswa2604/leetproblems/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Viswa2604/leetproblems/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Viswa2604/leetproblems/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/Viswa2604/leetproblems/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Viswa2604/leetproblems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Viswa2604/leetproblems/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Viswa2604/leetproblems/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Viswa2604/leetproblems/tree/master/0200-number-of-islands) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Viswa2604/leetproblems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
