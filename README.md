@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Viswa2604/leetproblems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Viswa2604/leetproblems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Viswa2604/leetproblems/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Viswa2604/leetproblems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Viswa2604/leetproblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Viswa2604/leetproblems/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Viswa2604/leetproblems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Viswa2604/leetproblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Viswa2604/leetproblems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Viswa2604/leetproblems/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Viswa2604/leetproblems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Viswa2604/leetproblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Viswa2604/leetproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Viswa2604/leetproblems/tree/master/0290-word-pattern) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Viswa2604/leetproblems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Viswa2604/leetproblems/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Viswa2604/leetproblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Viswa2604/leetproblems/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Viswa2604/leetproblems/tree/master/0274-h-index) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Viswa2604/leetproblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viswa2604/leetproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Viswa2604/leetproblems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Viswa2604/leetproblems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Viswa2604/leetproblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Viswa2604/leetproblems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Viswa2604/leetproblems/tree/master/0217-contains-duplicate) |
