@@ -1,24 +1,22 @@
 class Solution {
-    public int trap(int[] height)
-    {
-          int leftmax=height[0];
-          Stack<Integer> rightmax=new Stack<>();
-          int n=height.length;
-          rightmax.push(height[n-1]);
-          for(int i=n-1;i>=2;i--)
-          {
-            rightmax.push(Math.max(height[i],rightmax.peek()));
-          }
-          int totwat=0;
-          for(int i=1;i<n-1;i++)
-          {
-            int minimum=Math.min(rightmax.peek(),leftmax);
-            int trap=minimum-height[i];
-            trap=Math.max(0,trap);
-            totwat+=trap;
-            rightmax.pop();
-            leftmax=Math.max(leftmax,height[i]);
-          }
-          return totwat;
+    public int trap(int[] height) {
+         int l=0;
+         int r=height.length-1;
+         int maxl=height[l];
+         int maxr=height[r];
+         int ans=0;
+         while(l<r){
+            if(maxl<maxr){
+                ans+=maxl-height[l];
+                l++;
+                maxl=Math.max(maxl,height[l]);
+            }
+            else{
+                ans+=maxr-height[r];
+                r--;
+                maxr=Math.max(maxr,height[r]);
+            }
+         }
+         return ans; 
     }
 }
