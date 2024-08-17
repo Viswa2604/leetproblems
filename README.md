@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Viswa2604/leetproblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Viswa2604/leetproblems/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/Viswa2604/leetproblems/tree/master/1127-last-stone-weight) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Viswa2604/leetproblems/tree/master/1706-min-cost-to-connect-all-points) |
 ## String
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Viswa2604/leetproblems/tree/master/0200-number-of-islands) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Viswa2604/leetproblems/tree/master/1706-min-cost-to-connect-all-points) |
 ## Memoization
 |  |
 | ------- |
@@ -274,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Viswa2604/leetproblems/tree/master/0572-subtree-of-another-tree) |
+## Graph
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Viswa2604/leetproblems/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Viswa2604/leetproblems/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
