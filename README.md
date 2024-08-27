@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viswa2604/leetproblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Viswa2604/leetproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Viswa2604/leetproblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Viswa2604/leetproblems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Viswa2604/leetproblems/tree/master/0032-longest-valid-parentheses) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Viswa2604/leetproblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viswa2604/leetproblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Viswa2604/leetproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Viswa2604/leetproblems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Viswa2604/leetproblems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Viswa2604/leetproblems/tree/master/0141-linked-list-cycle) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Viswa2604/leetproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Viswa2604/leetproblems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Viswa2604/leetproblems/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Viswa2604/leetproblems/tree/master/0273-integer-to-english-words) |
