@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Viswa2604/leetproblems/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Viswa2604/leetproblems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Viswa2604/leetproblems/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Viswa2604/leetproblems/tree/master/0459-repeated-substring-pattern) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Viswa2604/leetproblems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0680-valid-palindrome-ii](https://github.com/Viswa2604/leetproblems/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viswa2604/leetproblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Viswa2604/leetproblems/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Viswa2604/leetproblems/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
