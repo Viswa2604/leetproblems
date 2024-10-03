@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Viswa2604/leetproblems/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/Viswa2604/leetproblems/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/Viswa2604/leetproblems/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/Viswa2604/leetproblems/tree/master/1694-make-sum-divisible-by-p) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Viswa2604/leetproblems/tree/master/1706-min-cost-to-connect-all-points) |
 ## String
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Viswa2604/leetproblems/tree/master/0496-next-greater-element-i) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Viswa2604/leetproblems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/Viswa2604/leetproblems/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/Viswa2604/leetproblems/tree/master/1694-make-sum-divisible-by-p) |
 ## Sliding Window
 |  |
 | ------- |
@@ -301,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Viswa2604/leetproblems/tree/master/1706-min-cost-to-connect-all-points) |
+## Prefix Sum
+|  |
+| ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/Viswa2604/leetproblems/tree/master/1694-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
