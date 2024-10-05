@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Viswa2604/leetproblems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Viswa2604/leetproblems/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Viswa2604/leetproblems/tree/master/0459-repeated-substring-pattern) |
+| [0567-permutation-in-string](https://github.com/Viswa2604/leetproblems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Viswa2604/leetproblems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0680-valid-palindrome-ii](https://github.com/Viswa2604/leetproblems/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viswa2604/leetproblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Viswa2604/leetproblems/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Viswa2604/leetproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Viswa2604/leetproblems/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Viswa2604/leetproblems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Viswa2604/leetproblems/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Viswa2604/leetproblems/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Viswa2604/leetproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Viswa2604/leetproblems/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Viswa2604/leetproblems/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Viswa2604/leetproblems/tree/master/0567-permutation-in-string) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Viswa2604/leetproblems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/Viswa2604/leetproblems/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Viswa2604/leetproblems/tree/master/1694-make-sum-divisible-by-p) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viswa2604/leetproblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Viswa2604/leetproblems/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
