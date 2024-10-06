@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Viswa2604/leetproblems/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Viswa2604/leetproblems/tree/master/1694-make-sum-divisible-by-p) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Viswa2604/leetproblems/tree/master/1706-min-cost-to-connect-all-points) |
+| [1923-sentence-similarity-iii](https://github.com/Viswa2604/leetproblems/tree/master/1923-sentence-similarity-iii) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Viswa2604/leetproblems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0680-valid-palindrome-ii](https://github.com/Viswa2604/leetproblems/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viswa2604/leetproblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/Viswa2604/leetproblems/tree/master/1923-sentence-similarity-iii) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Viswa2604/leetproblems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Viswa2604/leetproblems/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Viswa2604/leetproblems/tree/master/0908-middle-of-the-linked-list) |
+| [1923-sentence-similarity-iii](https://github.com/Viswa2604/leetproblems/tree/master/1923-sentence-similarity-iii) |
 ## Hash Table
 |  |
 | ------- |
