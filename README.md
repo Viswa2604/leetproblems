@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Viswa2604/leetproblems/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viswa2604/leetproblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Viswa2604/leetproblems/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Viswa2604/leetproblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Viswa2604/leetproblems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Viswa2604/leetproblems/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viswa2604/leetproblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Viswa2604/leetproblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Viswa2604/leetproblems/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Viswa2604/leetproblems/tree/master/0592-fraction-addition-and-subtraction) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Viswa2604/leetproblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
